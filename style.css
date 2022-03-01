@@ -118,7 +118,7 @@ h3 {
     opacity: 70%;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .testimonials {
         display: grid;
         grid-template-columns: 325px;
